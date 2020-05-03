@@ -1,2 +1,2 @@
 # rx-java
-Programacion Reactiva using RxJava 2.0
+Programacion Reactiva using RxJava 3.0
